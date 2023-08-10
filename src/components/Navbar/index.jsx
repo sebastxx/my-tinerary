@@ -15,7 +15,7 @@ function index() {
 
     const data = [
         {url:"/", texto:"Home"},
-        {url:"/cities", texto:"Cities"},
+        {url:"/#", texto:"Cities"},
     ]
 
   return (

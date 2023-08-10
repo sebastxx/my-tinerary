@@ -59,8 +59,8 @@
       "id": 9,
       "ciudad": "Cuenca",
       "pais": "Ecuador",
-      "imagen": "/ecuador.png",
-      "url": "https://example.com/ecuador"
+      "imagen": "/cuenca.png",
+      "url": "https://example.com/cuenca"
     },
     {
       "id": 10,

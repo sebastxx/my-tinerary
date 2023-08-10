@@ -32,7 +32,7 @@ function index() {
   
   return (
     <section>
-        <h2>Popular MYTINERARY!</h2>
+        <h2>Popular MyTineraries</h2>
         <div className='carrousel__container'>
           <button className='carrouser__btn back' onClick={()=>{handlerBack()}}>
             <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 16 16">

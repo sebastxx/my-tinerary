@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "ciudad": "Cuzco",
+      "pais": "Perú",
+      "imagen": "/cuzco.png",
+      "url": "https://example.com/cuzco"
+    },
+    {
+      "id": 2,
+      "ciudad": "Cartagena",
+      "pais": "Colombia",
+      "imagen": "/cartagena.png",
+      "url": "https://example.com/cartagena"
+    },
+    {
+      "id": 3,
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina",
+      "imagen": "/buenosaires.png",
+      "url": "https://example.com/buenosaires"
+    },
+    {
+      "id": 4,
+      "ciudad": "Río de Janeiro",
+      "pais": "Brasil",
+      "imagen": "/riodejaneiro.png",
+      "url": "https://example.com/riodejaneiro"
+    },
+    {
+      "id": 5,
+      "ciudad": "Oaxaca",
+      "pais": "Mexico",
+      "imagen": "/oaxaca.png",
+      "url": "https://example.com/oaxaca"
+    },
+    {
+      "id": 6,
+      "ciudad": "Valparaiso",
+      "pais": "Chile",
+      "imagen": "/valparaiso.png",
+      "url": "https://example.com/valparaiso"
+    },
+    {
+      "id": 7,
+      "ciudad": "Guatemala",
+      "pais": "Guatemala",
+      "imagen": "/guatemala.png",
+      "url": "https://example.com/guatemala"
+    },
+    {
+      "id": 8,
+      "ciudad": "Bahía",
+      "pais": "Brasil",
+      "imagen": "/bahia.png",
+      "url": "https://example.com/bahia"
+    },
+    {
+      "id": 9,
+      "ciudad": "Cuenca",
+      "pais": "Ecuador",
+      "imagen": "/ecuador.png",
+      "url": "https://example.com/ecuador"
+    },
+    {
+      "id": 10,
+      "ciudad": "Medellín",
+      "pais": "Colombia",
+      "imagen": "/medellin.png",
+      "url": "https://example.com/medellin"
+    },
+    {
+      "id": 11,
+      "ciudad": "Habana",
+      "pais": "Cuba",
+      "imagen": "/habana.png",
+      "url": "https://example.com/habana"
+    },
+    {
+      "id": 12,
+      "ciudad": "Bariloche",
+      "pais": "Argentina",
+      "imagen": "/bariloche.png",
+      "url": "https://example.com/bariloche"
+    }
+]  
+

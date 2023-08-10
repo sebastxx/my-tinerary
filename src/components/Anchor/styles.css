@@ -1,0 +1,10 @@
+a {
+    text-align: end;
+    text-decoration: none;
+}
+
+@media (max-width: 768px) {
+    a {
+        width: 100%;
+    }
+}

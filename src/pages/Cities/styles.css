@@ -1,0 +1,16 @@
+.container__cities {
+    /* 
+        header: 97px
+        footer: 114px
+    */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 97px - 114px);
+    color: var(--dark-color);
+}
+
+@media (max-width: 768px) {
+
+}
+

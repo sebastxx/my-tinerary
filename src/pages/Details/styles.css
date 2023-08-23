@@ -1,0 +1,32 @@
+.containerItineraries {
+    height: calc(100vh - 114px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    color: var(--dark-color);
+    font-size: 1.5rem;
+}
+
+.containerItineraries svg {
+    color: orange;
+    height: 80px;
+}
+
+.return__btn {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: none;
+    outline: none;
+    background-color: #E61C51;
+    color: var(--light-color);
+    font-weight: bold;
+    font-size: 1.2rem;
+    padding: 10px 20px;
+    border-radius: 35.2px;
+    box-shadow: 0px 5px 27px -4px rgba(230, 28, 82, 0.6);
+    animation: miAnimacion 1.2s infinite ease alternate;
+}
